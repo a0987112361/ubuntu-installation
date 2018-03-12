@@ -84,7 +84,7 @@
 
 ![](/assets/ubuntu-installation_17.png)
 
-20.選擇要使用的磁區，因為範例是虛擬機所以僅有一個磁區可用。
+20.選擇要使用的磁區，因為範例是虛擬機所以僅有一個磁區可用。
 
 ![](/assets/ubuntu-installation_18.png)
 
