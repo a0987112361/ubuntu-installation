@@ -12,7 +12,7 @@
 
 1.建立好虛擬機後透過光碟機讀取ubuntu-16.04.3-server.iso，開始安裝流程。
 
-2.選擇語言，這邊我們選擇「English」，點Enter繼續下一步。
+2.選擇語言，這邊我們選擇「English」，點Enter繼續下一步。
 
 ![](/assets/ubuntu-installation_1.png)
 
@@ -32,7 +32,7 @@
 
 ![](/assets/ubuntu-installation_5.png)
 
-7.這邊選擇「English（US）」。
+7.這邊選擇「English（US）」。
 
 ![](/assets/ubuntu-installation_6.png)
 
@@ -96,7 +96,7 @@
 
 ![](/assets/ubuntu-installation_20.png)
 
-23.點選「Yes」，以上述設定寫入磁區。
+23.點選「Yes」，以上述設定寫入磁區。
 
 ![](/assets/ubuntu-installation_21.png)
 
