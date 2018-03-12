@@ -3,7 +3,7 @@
 > 本安裝教學是Gitlab安裝之前置步驟，需創建一台虛擬機並且依照Gitlab Installation的硬體需求來配置虛擬機設定，本教學亦可當作安裝ubuntu server之參考。
 
 ## 硬體需求
-* 可參考[Gitlab安裝硬體需求](https://docs.gitlab.com/ce/install/requirements.html#hardware-requirements)。
+* 可參考[Gitlab安裝硬體需求](https://docs.gitlab.com/ce/install/requirements.html#hardware-requirements)。
 
 ## 軟體需求
 請先至[ubuntu官方網站](https://www.ubuntu-tw.org/modules/tinyd0/)取得ubuntu-16.04-server的.iso檔案。
